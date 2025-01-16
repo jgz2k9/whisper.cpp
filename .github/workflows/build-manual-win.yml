@@ -1,6 +1,6 @@
 name: buid-win-android
-on: 
-  workflow_dispatch：
+on:
+  workflow_dispatch:
 
 env:
   ubuntu_image: "ubuntu:22.04"
